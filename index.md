@@ -1,5 +1,4 @@
 ## 我的第一个博客
-# Header 1
 ## Header 2
 ### Header 3
    这是我的第一个博客，介绍点什么好呢，好，就我最近学的Python吧（大佬勿喷），我只是简单的介绍一下
@@ -15,8 +14,22 @@
   c.变量和数据类型：变量分为数字类型（整型、复数、浮点型），布尔类型， 字符串类型，列表类型，元组类型，字典类型，集合。
   ![enter description here](./images/微图1.jpg)
   
-  d.运算符
+  d.运算符：算术运算符、赋值运算符、符合运算符、比较运算符等等。
   ：![enter description here](./images/微信图2.jpg)
+  
+  
+### 4.常用语句：
+1.if-else（elif）判断语句 ：用法与C/C++相似，但没有大括号，要注意缩进。
+2.while和for的循环语句：如下图：
+![enter description here](./images/微信图3.jpg)
+
+![enter description here](./images/微信4.jpg)
+3.pass空语句：为了保持程序结构完整性，不起任何作用。
+
+
+### 5.字符串：
+  字符串是一种表示文本数据的类型。
+  1.字符串的输出：
 
 
 
@@ -25,11 +38,3 @@
 
 
 
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/113300-wxx/hiahiahia/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
