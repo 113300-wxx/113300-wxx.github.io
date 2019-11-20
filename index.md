@@ -34,7 +34,7 @@
 ``` javascript
 name = '德林'
 age = 5
-print("大家好， 我儿子叫%s， 我今年%d岁了"%（name， age）)
+print("大家好， 我儿子叫%s， 今年%d岁了"%（name， age）)
 
 ```
 2.字符串的输入：
