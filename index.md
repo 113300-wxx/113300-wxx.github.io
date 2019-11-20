@@ -1,12 +1,13 @@
 ## 我的第一个博客
 
-  1.这是我的第一个博客，介绍点什么好呢，好，就我最近学的Python吧（大佬勿喷）
+   这是我的第一个博客，介绍点什么好呢，好，就我最近学的Python吧（大佬勿喷），我只是简单的介绍一下
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###1.认识Python
+  Python有挺多优点，但一些用惯了C/C++的coder反而不太习惯它的语法，单个人觉得，如果习惯并熟练使用后，Python是个挺好用的工具。Python的主要优点有：易于学习、易于阅读、可移植、可嵌入、GUI编程和数据库等等。
 
-### Markdown
+###2.接下来是什么，那肯定就是下载Python和Pycharm啦，下载Python的网址：http://www.python.org/download/ ，下载Pycharm网址：https://www.jetbrains.com/pycharm/download/#section=windows ,接下来就是配置环境变量了， 这些网上教程一大堆，本蒟蒻就不多说了。 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
