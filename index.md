@@ -37,7 +37,22 @@ age = 5
 print("大家好， 我叫%s， 我今年%d岁了"%（name， age）)
 
 ```
+2.字符串的输入：
 
+``` javascript
+username = input("请输入用户名")
+print(username)
+```
+
+3.切片：
+假设有字符串 name = "abcdef"， 则：
+``` javascript
+name[0:3]-------->abc
+name[3:5]-------->de
+name[1:-1]------->bcde
+name[2:] --------->cdef
+name[::-2]-------->fbd
+```
 
 
 
